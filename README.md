@@ -1,9 +1,7 @@
-# Student_manegement_system
-A simple, interactive command-line Python application for managing student records, calculating CGPAs, and filtering by skills.
 
 # Student Management System
 
-A simple, interactive command-line Python application to manage a student database. 
+A simple, interactive command-line Python application for managing student records, calculating CGPAs, and filtering by skills.
 
 ## Features
 - **Display students:** View a list of all current students and their details.
